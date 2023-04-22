@@ -12,7 +12,6 @@ This repository contains Python code for implementing the rotting bandits algori
 * Soham Karak 
 * Amit Thomas
 * Subhash Vemula
-* Amit Thomas
 * Shri Kanishk
 * Putta Shravan
 * Abhranil
