@@ -2,10 +2,10 @@
 This repository contains Python code for implementing the rotting bandits algorithm as part of a Reinforcement Learning project.
 
 ##Table of Contents
-*Submission Details
-*Dependencies
-*Usage
-*Project Description
+* Submission Details
+* Dependencies
+* Usage
+* Project Description
 
 ## Submitted By:
 
